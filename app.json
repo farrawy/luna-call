@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "luna-call",
+    "slug": "luna-call",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
