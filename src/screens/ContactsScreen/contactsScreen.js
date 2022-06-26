@@ -54,6 +54,8 @@ export default ContactsScreen;
 const styles = StyleSheet.create({
   page: {
     padding: 15,
+    backgroundColor: "white",
+    flex: 1,
   },
   contactName: {
     fontSize: 16,
